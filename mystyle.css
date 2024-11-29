@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 10 px; 
+    right: 10 px;  
+    font-size: 20 px;
+    color: #333;
+}
